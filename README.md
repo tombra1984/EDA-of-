@@ -1,4 +1,4 @@
-This project uses clinical data of HIV patients worldwide from WHO
+This Project uses data from California Health and Human Services
 
 About the dataset
 
