@@ -2,7 +2,7 @@ This Project uses data from California Health and Human Services to determine st
 
 The Process
 
-It involved loading the dataset, cleaning and performing EDA in python. It also involved statistical modelling of 
+It involved loading the dataset, Cleaning and transforming the data in Python, Performing EDA, statistical analysis and visualizations, Identifying trends and patterns in data using statistical models and interpreting the results of the statistical models. 
 
 About the dataset
 
