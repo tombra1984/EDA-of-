@@ -1,3 +1,5 @@
+The Project
+
 This Project uses data from California Health and Human Services to determine statistical trends and patterns in communicable diseases within California.
 
 The Process
