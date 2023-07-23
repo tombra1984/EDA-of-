@@ -1,5 +1,9 @@
 This Project uses data from California Health and Human Services to determine statistical trends and patterns in communicable diseases within California.
 
+The Process
+
+It involved loading the dataset, cleaning and performing EDA in python. It also involved statistical modelling of 
+
 About the dataset
 
 
