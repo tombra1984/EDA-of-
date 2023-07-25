@@ -13,3 +13,4 @@ The dataset contains case counts and rates for selected communicable diseases—
 Data Source: https://www.cdph.ca.gov/Programs/CID/DCDC/Pages/IDB.aspx.
 
 The Results
+It was observed that
