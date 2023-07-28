@@ -14,21 +14,6 @@ Data Source: https://www.cdph.ca.gov/Programs/CID/DCDC/Pages/IDB.aspx.
 
 The Results
 
-It was observed that there is a steady climb in the number of infectious diseases in the state of California over the study period.   
+It was observed that there is a steady climb in the number of infectious diseases in the state of California over the study period. Los Angeles has the highest number of infectious diseases with Campylobacteriosis leading as the most prevalent. Whereas Kern had the highest percentage of infections as compared to their population. 
 
 
-
-![Alt text](image.png)
-
-
-![Alt text](image-1.png)
-
-
-Los Angeles has the highest number of infectious diseases with Campylobacteriosis leading as the most prevalent.
-
-
-
-![Alt text](image-2.png)
-
-
-The county of Kern had the highest percentage of infections as compared to their population.
