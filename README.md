@@ -14,7 +14,7 @@ Data Source: https://www.cdph.ca.gov/Programs/CID/DCDC/Pages/IDB.aspx.
 
 The Results
 
-It was observed that there is a steady climb in the number of infectious diseases in the state of California over the study period.
+It was observed that there was a general steady climb in the number of infectious diseases in the state of California over the study period.
 
 
 ![Alt text](image.png)
@@ -27,6 +27,6 @@ It was observed that there is a steady climb in the number of infectious disease
  
  
  
- Whereas Kern had the highest percentage of infections as compared to their population. 
+ Whereas the County of Kern had the highest percentage of infections as compared to their population. 
 
 ![Alt text](image-2.png)
