@@ -20,7 +20,7 @@ It was observed that there was a general steady climb in the number of infectiou
 ![Alt text](image.png)
 
 
- Los Angeles has the highest number of infectious diseases with Campylobacteriosis leading as the most prevalent. 
+ Los Angeles had the highest number of infectious diseases with Campylobacteriosis leading as the most prevalent. 
  
  
  ![Alt text](image-1.png)
