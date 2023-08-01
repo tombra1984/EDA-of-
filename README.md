@@ -33,4 +33,4 @@ It was observed that there was a general steady climb in the number of infectiou
 
 ![Alt text](image-2.png)
 
-modelling was done on the dataset to predict if based on the population a county would have infectious diseases
+modelling was done on the dataset to predict infectious diseases based on the population. i.e if a county would have positive cases or not
