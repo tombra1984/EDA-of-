@@ -35,6 +35,8 @@ It was observed that there was a general steady climb in the number of infectiou
 
 Modelling was done on the dataset to predict infectious diseases based on the population. i.e if a county would have positive cases or not. The random Forest classifier gave the best results amoung all the classifiers with accuracy of 0.97 and Recall of 0.88.
 
+![california infectious disease](https://github.com/tombra1984/Infectious-diseases-in-California/assets/127909963/2a892daa-34ec-485a-b5d9-661de6abc90c)
+
 
 
 
