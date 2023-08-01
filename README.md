@@ -37,8 +37,7 @@ Modelling was done on the dataset to predict infectious diseases based on the po
 
 
 
-![california infectious disease](https://github.com/tombra1984/Infectious-diseases-in-California/assets/127909963/2a892daa-34ec-485a-b5d9-661de6abc90c)
-
+![Alt text](<california infectious disease.png>)
 
 
 
