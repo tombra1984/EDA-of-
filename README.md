@@ -25,10 +25,12 @@ It was observed that there was a general steady climb in the number of infectiou
  
  ![Alt text](image-1.png)
 
- It was observed that 
+
  
  
  
  Whereas the County of Kern had the highest percentage of infections as compared to their population. 
 
 ![Alt text](image-2.png)
+
+modelling was done on the dataset to predict if based on the population a county would have infectious diseases
