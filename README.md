@@ -24,9 +24,17 @@ It was observed that there was a general steady climb in the number of infectiou
  
  
  ![Alt text](image-1.png)
+
+
  
  
  
  Whereas the County of Kern had the highest percentage of infections as compared to their population. 
 
 ![Alt text](image-2.png)
+
+Modelling was done on the dataset to predict infectious diseases based on the population. i.e if a county would have positive cases or not. The random Forest classifier gave the best results amoung all the classifiers with accuracy of 0.97 and Recall of 0.88.
+
+
+
+Further analysis was done to predict the number of cases a county would have based on the population.
