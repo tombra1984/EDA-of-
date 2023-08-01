@@ -44,3 +44,5 @@ Modelling was done on the dataset to predict infectious diseases based on the po
 Further analysis was done to predict the number of cases a county would likely have. The Random Forest Regressor gave the best metrics at predicting the cases based on population and rate of infections.
 
 ![Alt text](RFR-1.png)
+
+The MSE measures the average squared difference between the predicted values and the actual values. A lower MSE value indicates better performance model, which means the model is making and or would make accurate predictions.The R-squared value represents the proportion of the variance in the dependent variable (number of cases) that is predictable from the independent variable(s) (population and rate). An R-squared value closer to 1 indicates a better fit, this suggests that it explains a larger proportion of the variance in the number of cases.
