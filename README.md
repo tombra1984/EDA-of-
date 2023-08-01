@@ -24,6 +24,8 @@ It was observed that there was a general steady climb in the number of infectiou
  
  
  ![Alt text](image-1.png)
+
+ It was observed that 
  
  
  
