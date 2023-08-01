@@ -33,7 +33,7 @@ It was observed that there was a general steady climb in the number of infectiou
 
 ![Alt text](image-2.png)
 
-modelling was done on the dataset to predict infectious diseases based on the population. i.e if a county would have positive cases or not. The random Forest classifier gave the best results amoung all the classifiers 
+modelling was done on the dataset to predict infectious diseases based on the population. i.e if a county would have positive cases or not. The random Forest classifier gave the best results amoung all the classifiers with accuracy of 0.97 and Recall of 0.88.
 
 
 
