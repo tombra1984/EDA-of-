@@ -43,6 +43,7 @@ Modelling was done on the dataset to predict infectious diseases based on the po
 
 Further analysis was done to predict the number of cases a county would likely have. The Random Forest Regressor gave the best metrics at predicting the cases based on population and rate of infections.
 
+
 ![Alt text](RFR-1.png)
 
 
